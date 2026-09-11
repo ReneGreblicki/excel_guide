@@ -2,7 +2,7 @@
 
 A concise guide to spreadsheet analysis, Power Query, Power Pivot, M and DAX.
 
-[Download the complete lesson notebook](https://github.com/ReneGreblicki/excel_guide/tree/main/notebook)](https://github.com/ReneGreblicki/excel_guide/blob/main/notebook/Excel_Lesson_Notebook.docx)  
+[Download the complete lesson notebook](https://github.com/ReneGreblicki/excel_guide/tree/main/notebook) 
 [Download the 18-page visual cheatsheet](download_notes/Excel_Analytics_Cheatsheet_18_Pages.zip)
 
 ## Contents
