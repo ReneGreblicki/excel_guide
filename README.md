@@ -4,7 +4,7 @@ A concise guide to spreadsheet analysis, Power Query, Power Pivot, M and DAX.
 
 [Download the complete lesson notebook](https://github.com/ReneGreblicki/excel_guide/tree/main/notebook) 
 
-[Download the 18-page visual cheatsheet](download_notes/Excel_Analytics_Cheatsheet_18_Pages.zip)
+[Download the 18-page visual cheatsheet](https://github.com/ReneGreblicki/excel_guide/tree/main/notes)
 
 ## Contents
 
@@ -967,38 +967,38 @@ Grand totals evaluate the measure under total filter context. They are not alway
 
 ## Visual cheatsheets
 
-![Excel Cheatsheet 01](download_notes/Excel_Cheatsheet_01.png)
+![Excel Cheatsheet 01](notes/Excel_Cheatsheet_01.png)
 
-![Excel Cheatsheet 02](download_notes/Excel_Cheatsheet_02.png)
+![Excel Cheatsheet 02](notes/Excel_Cheatsheet_02.png)
 
-![Excel Cheatsheet 03](download_notes/Excel_Cheatsheet_03.png)
+![Excel Cheatsheet 03](notes/Excel_Cheatsheet_03.png)
 
-![Excel Cheatsheet 04](download_notes/Excel_Cheatsheet_04.png)
+![Excel Cheatsheet 04](notes/Excel_Cheatsheet_04.png)
 
-![Excel Cheatsheet 05](download_notes/Excel_Cheatsheet_05.png)
+![Excel Cheatsheet 05](notes/Excel_Cheatsheet_05.png)
 
-![Excel Cheatsheet 06](download_notes/Excel_Cheatsheet_06.png)
+![Excel Cheatsheet 06](notes/Excel_Cheatsheet_06.png)
 
-![Excel Cheatsheet 07](download_notes/Excel_Cheatsheet_07.png)
+![Excel Cheatsheet 07](notes/Excel_Cheatsheet_07.png)
 
-![Excel Cheatsheet 08](download_notes/Excel_Cheatsheet_08.png)
+![Excel Cheatsheet 08](notes/Excel_Cheatsheet_08.png)
 
-![Excel Cheatsheet 09](download_notes/Excel_Cheatsheet_09.png)
+![Excel Cheatsheet 09](notes/Excel_Cheatsheet_09.png)
 
-![Excel Cheatsheet 10](download_notes/Excel_Cheatsheet_10.png)
+![Excel Cheatsheet 10](notes/Excel_Cheatsheet_10.png)
 
-![Excel Cheatsheet 11](download_notes/Excel_Cheatsheet_11.png)
+![Excel Cheatsheet 11](notes/Excel_Cheatsheet_11.png)
 
-![Excel Cheatsheet 12](download_notes/Excel_Cheatsheet_12.png)
+![Excel Cheatsheet 12](notes/Excel_Cheatsheet_12.png)
 
-![Excel Cheatsheet 13](download_notes/Excel_Cheatsheet_13.png)
+![Excel Cheatsheet 13](notes/Excel_Cheatsheet_13.png)
 
-![Excel Cheatsheet 14](download_notes/Excel_Cheatsheet_14.png)
+![Excel Cheatsheet 14](notes/Excel_Cheatsheet_14.png)
 
-![Excel Cheatsheet 15](download_notes/Excel_Cheatsheet_15.png)
+![Excel Cheatsheet 15](notes/Excel_Cheatsheet_15.png)
 
-![Excel Cheatsheet 16](download_notes/Excel_Cheatsheet_16.png)
+![Excel Cheatsheet 16](notes/Excel_Cheatsheet_16.png)
 
-![Excel Cheatsheet 17](download_notes/Excel_Cheatsheet_17.png)
+![Excel Cheatsheet 17](notes/Excel_Cheatsheet_17.png)
 
-![Excel Cheatsheet 18](download_notes/Excel_Cheatsheet_18.png)
+![Excel Cheatsheet 18](notes/Excel_Cheatsheet_18.png)
